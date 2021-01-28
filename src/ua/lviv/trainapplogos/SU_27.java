@@ -1,7 +1,7 @@
 package ua.lviv.trainapplogos;
 import java.util.Random;
 
-public class SU_27 extends Plane implements SpecialFunctions {
+public class SU_27 extends Plane implements TurboAcceleration, StealthTechnology, NuclearStrike {
 	int maxSpeed;
 	String color;
 
